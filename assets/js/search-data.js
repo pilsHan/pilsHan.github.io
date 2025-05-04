@@ -51,11 +51,11 @@ ninja.data = [{
           window.open("mailto:%6A%69%73%75%33%37%30%39@%61%6A%6F%75.%61%63.%6B%72", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://github.com/pilsHan", "_blank");
         },
       },{
         id: 'social-scholar',
