@@ -204,9 +204,7 @@ exclude:
   - _posts/
   - _projects/?_project.md
   - assets/jupyter/blog.ipynb
-  - _plugins/inspirehep-citations.rb
-  - _plugins/hide-custom-bibtex.rb
-  - _plugins/google-scholar-citations.rb
+  - _includes/citation.liquid
   
 keep_files:
   - CNAME
