@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ajou University. jisu3709@ajou.ac.kr. <a href='#'>[Google Scholar]</a>.
+subtitle: <a href='https://scholar.google.com/citations?user=kCVEGswAAAAJ'>[Google Scholar]</a>.
+E-mail: jisu3709@ajou.ac.kr. 
 
 # profile:
 #   align: right
@@ -27,4 +28,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first-year Ph.D. student in Artificial Intelligence at Ajou University. My research interests lie in Continual Learning and Domain Adaptation, with a particular focus on building models that adapt effectively in dynamic environments. Recently, I have been exploring continual learning from continuous video streams and test-time adaptation for Vision-Language Models (VLMs). I aim to develop learning systems that are both robust and adaptable to real-world distribution shifts.
+I am a first-year Ph.D. student in Artificial Intelligence at Ajou University. My research interests lie in Continual Learning and Domain Adaptation, with a particular focus on building models that adapt effectively in dynamic environments. Recently, I have been exploring continual learning from continuous video streams and test-time adaptation for Vision-Language Models (VLMs). I aim to develop learning systems that are both robust and adaptable to real-world distribution shifts. I welcome discussions and collaborations. Feel free to reach out to me at jisu3709@ajou.ac.kr.
