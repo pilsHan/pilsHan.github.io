@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://scholar.google.com/citations?user=kCVEGswAAAAJ'>[Google Scholar]</a>.
-E-mail: jisu3709@ajou.ac.kr. 
+subtitle: <a href='https://scholar.google.com/citations?user=kCVEGswAAAAJ'>[Google Scholar]</a>
+# E-mail: jisu3709@ajou.ac.kr. 
 
 # profile:
 #   align: right
