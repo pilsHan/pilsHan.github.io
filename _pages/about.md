@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='https://scholar.google.com/citations?user=kCVEGswAAAAJ'>[Google Scholar]</a>
-# E-mail: jisu3709@ajou.ac.kr. 
+# E-mail: jisuhan@korea.ac.kr. 
 
 # profile:
 #   align: right
@@ -28,6 +28,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first-year Ph.D. student in Artificial Intelligence at Ajou University. My research interests lie in Continual Learning and Domain Adaptation, with a particular focus on building models that adapt effectively in dynamic environments. Recently, I have been exploring continual learning from continuous video streams and test-time adaptation for Vision-Language Models (VLMs).
+I am a second-year Ph.D. student in electrical engineering at Korea University. My research interests lie in Continual Learning and Domain Adaptation, with a particular focus on building models that adapt effectively in dynamic environments. Recently, I have been exploring continual learning from continuous video streams and test-time adaptation for Vision-Language Models (VLMs).
 
-I welcome discussions and collaborations; please feel free to contact me at jisu3709@ajou.ac.kr.
+I welcome discussions and collaborations; please feel free to contact me at jisuhan@korea.ac.kr.
